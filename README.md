@@ -1,0 +1,1 @@
+To execute the code put the source file and the input text files in the same folder.Change the name of input and output file in the code.The output file will be generated in the same folder with the name that is provided
